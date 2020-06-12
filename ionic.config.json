@@ -1,5 +1,7 @@
 {
   "name": "slidin-item-issue-reprod",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
